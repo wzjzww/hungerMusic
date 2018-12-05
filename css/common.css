@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font: 14px/1.5 cursive;
+	box-sizing: border-box;
+}
+html,body,section {
+	height: 100%;
+	overflow: hidden;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+ul>li {
+	list-style: none;
+	display: inline-block;
+}
